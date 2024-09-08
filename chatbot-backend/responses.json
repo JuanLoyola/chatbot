@@ -1,0 +1,232 @@
+[
+  {
+    "keywords": ["hola", "buenas", "saludos"],
+    "response": "¡Hola! ¿En qué puedo ayudarte hoy?",
+    "default": false
+  },
+  {
+    "keywords": ["adios", "hasta luego"],
+    "response": "¡Adiós! ¡Que tengas un buen día!",
+    "default": false
+  },
+  {
+    "keywords": ["thank you", "thanks", "appreciate"],
+    "response": "You're welcome! Is there anything else I can help you with?",
+    "default": false
+  },
+  {
+    "keywords": ["hello", "hi", "hey"],
+    "response": "Hello! How can I assist you today?",
+    "default": false
+  },
+  {
+    "keywords": ["gracias", "muchas gracias", "te lo agradezco"],
+    "response": "¡De nada! ¿Hay algo más en lo que pueda ayudarte?",
+    "default": false
+  },
+  {
+    "keywords": ["cómo estás", "qué tal", "cómo te va"],
+    "response": "¡Soy un bot, pero gracias por preguntar! ¿En qué puedo ayudarte?",
+    "default": false
+  },
+  {
+    "keywords": ["ayuda", "soporte", "asistencia"],
+    "response": "¡Claro! ¿Con qué necesitas ayuda?",
+    "default": false
+  },
+  {
+    "keywords": ["clima", "tiempo", "pronóstico"],
+    "response": "Puedo decirte el clima. ¿De qué ciudad quieres saber?",
+    "default": false
+  },
+  {
+    "keywords": ["broma", "chiste", "divertido"],
+    "response": "¿Por qué los programadores no les gusta la naturaleza? Porque tiene demasiados bugs.",
+    "default": false
+  },
+  {
+    "keywords": ["hora", "qué hora es", "hora actual"],
+    "response": "No tengo acceso a la hora actual, pero puedes revisarla en tu dispositivo.",
+    "default": false
+  },
+  {
+    "keywords": ["adiós", "chau", "nos vemos"],
+    "response": "¡Adiós! ¡Cuídate y que tengas un excelente día!",
+    "default": false
+  },
+  {
+    "keywords": ["quién eres", "cuál es tu nombre", "quién soy"],
+    "response": "Soy un chatbot y estoy aquí para ayudarte con cualquier pregunta o tarea.",
+    "default": false
+  },
+  {
+    "keywords": ["película", "ver", "cine"],
+    "response": "No puedo reproducir películas, pero puedo recomendarte algunas. ¿Qué género prefieres?",
+    "default": false
+  },
+  {
+    "keywords": ["libro", "leer", "recomendación"],
+    "response": "Si te gusta leer, puedo sugerirte algunos libros. ¿Qué género te interesa?",
+    "default": false
+  },
+  {
+    "keywords": ["traducir", "traducción", "idioma"],
+    "response": "Puedo ayudarte con pequeñas traducciones. ¿Qué necesitas traducir?",
+    "default": false
+  },
+  {
+    "keywords": ["hola", "buenas", "saludos"],
+    "response": "¡Hola! ¿En qué puedo ayudarte hoy?",
+    "default": false
+  },
+  {
+    "keywords": ["adios", "hasta luego"],
+    "response": "¡Adiós! ¡Que tengas un buen día!",
+    "default": false
+  },
+  {
+    "keywords": ["thank you", "thanks", "appreciate"],
+    "response": "You're welcome! Is there anything else I can help you with?",
+    "default": false
+  },
+  {
+    "keywords": ["hello", "hi", "hey"],
+    "response": "Hello! How can I assist you today?",
+    "default": false
+  },
+  {
+    "keywords": ["how are you", "how's it going", "what's up"],
+    "response": "I'm just a bot, but thanks for asking! How can I assist you?",
+    "default": false
+  },
+  {
+    "keywords": ["help", "assist", "support"],
+    "response": "Sure! What do you need help with?",
+    "default": false
+  },
+  {
+    "keywords": ["weather", "temperature", "forecast"],
+    "response": "I can provide the weather for today. What city are you in?",
+    "default": false
+  },
+  {
+    "keywords": ["joke", "funny", "make me laugh"],
+    "response": "Why don't programmers like nature? It has too many bugs.",
+    "default": false
+  },
+  {
+    "keywords": ["time", "what time is it", "current time"],
+    "response": "I can't access real-time data, but you can easily check the time on your device!",
+    "default": false
+  },
+  {
+    "keywords": ["goodbye", "bye", "see you"],
+    "response": "Goodbye! Take care and have a great day!",
+    "default": false
+  },
+  {
+    "keywords": ["open", "launch", "start"],
+    "response": "Please specify the app or service you'd like to open.",
+    "default": false
+  },
+  {
+    "keywords": ["date", "what's the date", "today's date"],
+    "response": "I'm not able to fetch today's date. Please check on your device.",
+    "default": false
+  },
+  {
+    "keywords": ["who are you", "what's your name"],
+    "response": "I'm a chatbot here to assist you with any questions or tasks!",
+    "default": false
+  },
+  {
+    "keywords": ["what can you do", "capabilities", "functions"],
+    "response": "I can help answer questions, provide information, and assist with various tasks. Just ask!",
+    "default": false
+  },
+  {
+    "keywords": ["calculator", "calculate", "math"],
+    "response": "I can help you with simple calculations. What would you like to calculate?",
+    "default": false
+  },
+  {
+    "keywords": ["search", "find", "lookup"],
+    "response": "I can help you find information. Please specify what you're looking for.",
+    "default": false
+  },
+  {
+    "keywords": ["music", "play", "song"],
+    "response": "I'm unable to play music, but you can use your favorite music app for that.",
+    "default": false
+  },
+  {
+    "keywords": ["news", "headlines", "current events"],
+    "response": "I can share some of the latest news. What topic are you interested in?",
+    "default": false
+  },
+  {
+    "keywords": ["food", "recipe", "cook"],
+    "response": "I have some great recipe ideas! What kind of dish are you in the mood for?",
+    "default": false
+  },
+  {
+    "keywords": ["movie", "film", "watch"],
+    "response": "I can't stream movies, but I can recommend some great ones!",
+    "default": false
+  },
+  {
+    "keywords": ["reminder", "alert", "remind me"],
+    "response": "Unfortunately, I can't set reminders, but you can use your device's reminder app.",
+    "default": false
+  },
+  {
+    "keywords": ["alarm", "wake up", "set alarm"],
+    "response": "I can't set alarms, but your device can handle that!",
+    "default": false
+  },
+  {
+    "keywords": ["translate", "language", "conversion"],
+    "response": "I can help translate small phrases. What would you like to translate?",
+    "default": false
+  },
+  {
+    "keywords": ["call", "phone", "dial"],
+    "response": "I can't make calls for you, but your phone app can do that.",
+    "default": false
+  },
+  {
+    "keywords": ["map", "directions", "navigate"],
+    "response": "I can help you with directions. Where would you like to go?",
+    "default": false
+  },
+  {
+    "keywords": ["reminder", "alert", "remind me"],
+    "response": "I can't set reminders for you, but your phone can handle that easily.",
+    "default": false
+  },
+  {
+    "keywords": ["question", "query", "ask"],
+    "response": "Feel free to ask me anything! I'm here to help.",
+    "default": false
+  },
+  {
+    "keywords": ["fun", "entertainment", "bored"],
+    "response": "I can suggest some fun activities! Do you like games or learning new things?",
+    "default": false
+  },
+  {
+    "keywords": ["fact", "trivia", "learn"],
+    "response": "Did you know that the Eiffel Tower can be 15 cm taller during hot days due to metal expansion?",
+    "default": false
+  },
+  {
+    "keywords": ["quote", "inspiration", "motivation"],
+    "response": "Here's a quote for you: 'The only way to do great work is to love what you do.' - Steve Jobs",
+    "default": false
+  },
+  {
+    "keywords": ["location", "where am I", "current location"],
+    "response": "I don't have access to your current location, but you can check it using your phone's map app.",
+    "default": false
+  }
+]
